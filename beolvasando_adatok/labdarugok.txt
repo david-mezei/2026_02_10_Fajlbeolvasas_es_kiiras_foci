@@ -1,0 +1,31 @@
+Név; Csapat; Gólszám; Mérkőzések száma
+Cristiano Ronaldo;Al-Nassr;900;1200
+Lionel Messi;Inter Miami;850;1050
+Pelé;Santos;767;831
+Romário;Vasco da Gama;772;994
+Ferenc Puskás;Real Madrid;746;754
+Gerd Müller;Bayern München;735;793
+Josef Bican;Slavia Praha;805;530
+Eusébio;Benfica;733;745
+Franz Binder;Rapid Wien;1006;756
+Jimmy Jones;Glenavon;647;617
+Uwe Seeler;Hamburg;575;587
+Túlio Maravilha;Goiás;575;679
+Gyula Zsengellér;Újpest;568;591
+Ferenc Deák;Ferencváros;576;364
+Arthur Friedenreich;Fluminense;554;323
+Robert Lewandowski;Barcelona;650;850
+Zlatan Ibrahimović;AC Milan;570;900
+Robert Lang;Sparta Praha;350;450
+Wayne Rooney;Manchester United;313;763
+Raúl;Real Madrid;323;741
+Thierry Henry;Arsenal;360;792
+Ruud van Nistelrooy;Manchester United;349;589
+Samuel Eto'o;Barcelona;370;718
+Didier Drogba;Chelsea;297;679
+Fernando Torres;Atletico Madrid;260;712
+David Villa;Valencia;386;737
+Karim Benzema;Real Madrid;450;750
+Sergio Agüero;Manchester City;420;768
+Luis Suárez;Barcelona;500;850
+Neymar;Paris Saint-Germain;430;700
