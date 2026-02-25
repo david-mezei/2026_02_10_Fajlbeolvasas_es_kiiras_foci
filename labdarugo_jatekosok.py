@@ -59,6 +59,26 @@ for labdarugo in labdarugok:
 
 atlag_gol = osszes_gol / osszes_jatekos
 
+# 6. feladat
+csapat_golok = {}
+
+for labdarugo in labdarugok:
+    csapat = labdarugo["csapat"]
+    gol = labdarugo["gol"]
+    
+    if csapat not in csapat_golok:
+        csapat_golok[csapat] = 0
+        
+    csapat_golok[csapat] += gol
+
+legtobb_csapat = ""
+max_gol = 0
+
+for csapat, gol in csapat_golok.items():
+    if gol > max_gol:
+        max_gol = gol
+        legtobb_csapat = csapat
+
 
 # Létrehozzuk a mappát, ha még nem létezik.
 from pathlib import Path
